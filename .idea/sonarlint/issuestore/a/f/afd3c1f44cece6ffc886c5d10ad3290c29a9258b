@@ -1,0 +1,8 @@
+
+P
+java:S6213":Rename this variable to not match a restricted identifier.(ŞÎ‹ó
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦í÷øÿÿÿÿ
+Q	java:S125Z"<This block of commented-out lines of code should be removed.(æ´¨â
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º„ÍÆ
+_
+java:S3824 "IReplace this "Map.containsKey()" with a call to "Map.computeIfPresent()".(³èÚ

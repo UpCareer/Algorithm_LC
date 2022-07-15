@@ -1,0 +1,11 @@
+
+U
+java:S6213":Rename this variable to not match a restricted identifier.(Æ”¸úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ
+8
+java:S3626-"Remove this redundant jump.(ûÁİ…8¤×¼À0
+P
+java:S6213 ":Rename this variable to not match a restricted identifier.(—ÃşÊ
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(´–Ïóşÿÿÿÿ8ÿ¿À0
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿæôˆ

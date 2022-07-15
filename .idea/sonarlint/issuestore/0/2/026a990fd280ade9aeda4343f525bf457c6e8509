@@ -1,0 +1,9 @@
+
+
+java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8­Á”Œ”0
+\
+java:S1126)"AReplace this if-then-else statement by a single return statement.(‰·Ïìùÿÿÿÿ
+h
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ã­Ÿ©
+f	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÆø
+f	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Î²ã

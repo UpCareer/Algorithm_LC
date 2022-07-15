@@ -1,0 +1,32 @@
+
+e
+java:S2153”"IRemove the boxing to "Integer"; The argument is already of the same type.(÷æç§şÿÿÿÿ
+T	java:S106Æ"9Replace this use of System.out or System.err by a logger.(×û­ëúÿÿÿÿ
+O	java:S106Ç"9Replace this use of System.out or System.err by a logger.(Ùä¥Ì
+T	java:S106È"9Replace this use of System.out or System.err by a logger.(Ø÷óòûÿÿÿÿ
+O	java:S106É"9Replace this use of System.out or System.err by a logger.(üÅ§Í
+O	java:S106Ë"9Replace this use of System.out or System.err by a logger.(‹ƒ‰¹
+N	java:S106Î"9Replace this use of System.out or System.err by a logger.(²¥ê 
+o
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù¹à
+t
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(á€¶ùşÿÿÿÿ
+n
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÀ*
+n
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÀ*
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(úËá¼
+u
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(°Ê÷×ıÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(Ë¼´öşÿÿÿÿ
+D
+java:S1604¡"(Make this anonymous inner class a lambda(ãÚ¬æúÿÿÿÿ
+g	java:S101/"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÜıÆµÿÿÿÿÿ
+X
+java:S4973†"<Strings and Boxed types should be compared using "equals()".(³ÌâÌúÿÿÿÿ
+X
+java:S4973¥"<Strings and Boxed types should be compared using "equals()".(³ÌâÌúÿÿÿÿ
+h
+java:S2095¹"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(õéµ¨ûÿÿÿÿ

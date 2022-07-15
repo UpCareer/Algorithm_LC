@@ -1,0 +1,36 @@
+
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(©÷®Ê
+h
+java:S3776F"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ò×÷Š
+E
+java:S1197R"*Move the array designators [] to the type.(Â“½¤ÿÿÿÿÿ
+O
+java:S2130U"9Use "Integer.parseInt" for this string-to-int conversion.(µ¤“Ë
+E
+java:S1197d"*Move the array designators [] to the type.(Â“½¤ÿÿÿÿÿ
+O
+java:S2130e"9Use "Integer.parseInt" for this string-to-int conversion.(µ¤“Ë
+E
+java:S1197m"*Move the array designators [] to the type.(Â“½¤ÿÿÿÿÿ
+O
+java:S2130o"9Use "Integer.parseInt" for this string-to-int conversion.(µ¤“Ë
+I
+java:S11280".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+E
+java:S11283"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+t
+java:S2293P"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹„¡Ùüÿÿÿÿ
+o
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆÍ”ä
+\
+java:S11929"FDefine a constant instead of duplicating this literal "Alice" 3 times.(ÝÙï…
+b
+java:S1192;"GDefine a constant instead of duplicating this literal "Dennis" 4 times.(‰Ò©žúÿÿÿÿ
+^
+java:S11929"HDefine a constant instead of duplicating this literal "Charlie" 4 times.(ÝÙï…
+j
+java:S11929"TDefine a constant instead of duplicating this literal "Lost In Translation" 3 times.(ÝÙï…
+f	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò×÷Š
+Y
+java:S1155^">Use isEmpty() to check whether the collection is empty or not.(ùËŸ¸ýÿÿÿÿ
+g	java:S1016"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š‡ÿÚùÿÿÿÿ

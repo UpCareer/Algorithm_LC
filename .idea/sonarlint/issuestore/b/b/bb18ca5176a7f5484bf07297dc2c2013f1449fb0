@@ -1,0 +1,24 @@
+
+O
+java:S2864s"4Iterate over the "entrySet" instead of the "keySet".(Ôÿª°ÿÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(ÇúªÓþÿÿÿÿ
+G
+java:S1128("1Remove this unused import 'java.util.Comparator'.(î¹ó¹
+E
+java:S1128,"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+E
+java:S1128-"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ
+I
+java:S1128.".Remove this unused import 'java.util.TreeMap'.(¨éˆèýÿÿÿÿ
+t
+java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ž€ªÅøÿÿÿÿ
+t
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(•«éüþÿÿÿÿ
+o
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(ß¿à³
+t
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(•ì³ûÿÿÿÿ
+T
+java:S1155\">Use isEmpty() to check whether the collection is empty or not.(­ÌŒ½
+h
+java:S2095‚"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(õéµ¨ûÿÿÿÿ

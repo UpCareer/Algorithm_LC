@@ -1,0 +1,24 @@
+
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8óÖ¥Æ†0
+]	java:S125Q"<This block of commented-out lines of code should be removed.(¤õÁÂüÿÿÿÿ8Ò¼¥ûˆ0
+t
+java:S3012T"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Åæî¸ıÿÿÿÿ
+O
+java:S2864o"4Iterate over the "entrySet" instead of the "keySet".(áêŞ°ùÿÿÿÿ
+L
+java:S11280"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ
+E
+java:S11283"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+o
+java:S2293R"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿èÃ
+t
+java:S2293W"YReplace the type specification in this constructor call with the diamond operator ("<>").(§È×ÿÿÿÿÿ
+f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÑÌ¬
+k	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É«è£øÿÿÿÿ
+k	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á­ÜÂıÿÿÿÿ
+f	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éƒºÏ
+k	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¥¥Œüÿÿÿÿ
+k	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¥¥Œüÿÿÿÿ
+f	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿èÃ
+k	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§È×ÿÿÿÿÿ
+k	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×†öºüÿÿÿÿ

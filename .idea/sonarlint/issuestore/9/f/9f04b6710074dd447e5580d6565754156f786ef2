@@ -1,0 +1,16 @@
+
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(“­Ëãúÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(Ö‡¯Ô
+H
+java:S1135*"2Complete the task associated to this TODO comment.(Ö‡¯Ô
+7
+java:S11166"Remove this empty statement.(Åñ­õþÿÿÿÿ
+t
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(©‰Š™þÿÿÿÿ
+Y
+java:S1155A">Use isEmpty() to check whether the collection is empty or not.(ƒŸ×Ûýÿÿÿÿ
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“­Ëãúÿÿÿÿ

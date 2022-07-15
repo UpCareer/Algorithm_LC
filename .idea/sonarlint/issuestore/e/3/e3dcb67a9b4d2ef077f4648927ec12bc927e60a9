@@ -1,0 +1,33 @@
+
+J
+java:S3740&"/Provide the parametrized type for this generic.(è‚¿×ûÿÿÿÿ
+J
+java:S3740'"/Provide the parametrized type for this generic.(•¤•âüÿÿÿÿ
+E
+java:S1197&"*Move the array designators [] to the type.(è‚¿×ûÿÿÿÿ
+E
+java:S1197&"*Move the array designators [] to the type.(è‚¿×ûÿÿÿÿ
+A
+java:S1197+",Move the array designators [][] to the type.(êßðu
+Q	java:S125/"<This block of commented-out lines of code should be removed.(ÿµ“ö
+n
+java:S3012M"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‘ŸA
+M	java:S106^"9Replace this use of System.out or System.err by a logger.(üèœ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(‡¸í†ûÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(ØÑÊÝ
+}
+java:S2234`"gParameters to findContiguousHistory have the same names but not the same order as the method arguments.(ØÑÊÝ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(¢þçúÿÿÿÿ
+M	java:S106b"9Replace this use of System.out or System.err by a logger.(ÓÈÊ"
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(ä€‡Í
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(÷ÑßÃüÿÿÿÿ
+b
+java:S1192W"GDefine a constant instead of duplicating this literal "/amber" 3 times.(áÑõÈüÿÿÿÿ
+a
+java:S1192W"FDefine a constant instead of duplicating this literal "/plum" 3 times.(áÑõÈüÿÿÿÿ
+\
+java:S1192T"FDefine a constant instead of duplicating this literal "/blue" 3 times.(Í¡¶ô
+\
+java:S1192T"FDefine a constant instead of duplicating this literal "/pink" 5 times.(Í¡¶ô
+^
+java:S1192T"HDefine a constant instead of duplicating this literal "/orange" 5 times.(Í¡¶ô

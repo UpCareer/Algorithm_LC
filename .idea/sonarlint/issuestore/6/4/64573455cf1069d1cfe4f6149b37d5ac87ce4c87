@@ -1,0 +1,8 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(ЗЎБє√    8Ы°в╧Т0
+X	java:S125 "<This block of commented-out lines of code should be removed.(╡У╜Ж8в°в╧Т0
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(И╫╗¤·    8ж°в╧Т0
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(Ф╦╤У■    8к°в╧Т0
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(▒зн▓8ф┴г╧Т0

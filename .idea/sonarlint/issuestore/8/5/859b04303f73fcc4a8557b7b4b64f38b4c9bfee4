@@ -1,0 +1,41 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(…ת®
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106^"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(הד–
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(י©ׁ¥תÿÿÿÿ
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(הד–
+J
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ײֹM
+d
+java:S1126"AReplace this if-then-else statement by a single return statement.(אֹ¦שÿÿÿÿ8µ¸Ù0
+]
+java:S11921"GDefine a constant instead of duplicating this literal "false" 16 times.(הד–

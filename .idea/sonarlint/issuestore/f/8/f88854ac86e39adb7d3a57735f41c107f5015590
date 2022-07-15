@@ -1,0 +1,10 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+O
+java:S1854"9Remove this useless assignment to local variable "list2".(˜ˆü
+@
+java:S1481"*Remove this unused "list2" local variable.(˜ˆü
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä„ƒ
+R
+java:S4973&"<Strings and Boxed types should be compared using "equals()".(¿é—

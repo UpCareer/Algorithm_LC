@@ -1,0 +1,8 @@
+
+g
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Å¯ßq
+V
+java:S1854,";Remove this useless assignment to local variable "minCost".(ÈÑ»‚úÿÿÿÿ
+Y
+java:S1155)">Use isEmpty() to check whether the collection is empty or not.(£ààÖüÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‰ÞÂŽûÿÿÿÿ

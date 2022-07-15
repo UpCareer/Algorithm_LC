@@ -1,0 +1,22 @@
+
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ÛØãÕıÿÿÿÿ8ğï’‡0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(«†’˜øÿÿÿÿ8òï’‡0
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(…ÿİÔıÿÿÿÿ8óï’‡0
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(îáŒĞşÿÿÿÿ8ôï’‡0
+L
+java:S1197D"*Move the array designators [] to the type.(²Á€œüÿÿÿÿ8öï’‡0
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ğŒ³Ñ8øï’‡0
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(şõÙüÿÿÿÿ8ùï’‡0
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÆÂß8úï’‡0
+v
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(òŠ£8úï’‡0
+v
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(–Ş¸ş8úï’‡0
+`
+java:S11556">Use isEmpty() to check whether the collection is empty or not.(ƒŸ×Ûıÿÿÿÿ8ûï’‡0
+i	java:S101A"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­óîÚ8¿¿²0
+6
+java:S1700"Rename field "index"(à†¼°ûÿÿÿÿ8ÿï’‡0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Åğ…ıÿÿÿÿ8€¼±Ì“0

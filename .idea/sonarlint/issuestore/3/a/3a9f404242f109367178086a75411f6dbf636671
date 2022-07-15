@@ -1,0 +1,15 @@
+
+o
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(³Óç°8ÚüÒä0
+8
+java:S3626K"Remove this redundant jump.(ÉŠ©ƒ8İüÒä0
+8
+java:S3626\"Remove this redundant jump.(ÉŠ©ƒ8İüÒä0
+W	java:S125W"<This block of commented-out lines of code should be removed.(¾øf8åüÒä0
+Z	java:S106}"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8ÙŒ¥ê0
+z	java:S135H"YReduce the total number of break and continue statements in this loop to use at most one.(¾È£Óùÿÿÿÿ8çüÒä0
+t	java:S135Y"YReduce the total number of break and continue statements in this loop to use at most one.(ÒÎô(8çüÒä0
+D
+java:S16044"(Make this anonymous inner class a lambda(®³ú)8­ºòä0
+[
+java:S11552">Use isEmpty() to check whether the collection is empty or not.(ŞòÍÔ8éüÒä0

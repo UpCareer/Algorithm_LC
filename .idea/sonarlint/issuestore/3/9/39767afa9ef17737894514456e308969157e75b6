@@ -1,0 +1,21 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(¹Ÿª¨şÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+o
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(„èãÃ8÷ÿµö‰0
+O
+java:S2130["9Use "Integer.parseInt" for this string-to-int conversion.(â„Å¢
+J
+java:S2864b"4Iterate over the "entrySet" instead of the "keySet".(é¯ûŸ
+J
+java:S2864h"4Iterate over the "entrySet" instead of the "keySet".(é¯ûŸ
+t
+java:S2293\"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦“Âóşÿÿÿÿ
+_
+java:S1192)"IDefine a constant instead of duplicating this literal "Jennifer" 4 times.(µûĞ
+a
+java:S1192<"FDefine a constant instead of duplicating this literal "Zhang" 4 times.(£ï×šùÿÿÿÿ
+\
+java:S1192-"FDefine a constant instead of duplicating this literal "Chloe" 3 times.(°¥¼
+f	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„èãÃ
+k	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¹Äšùÿÿÿÿ
