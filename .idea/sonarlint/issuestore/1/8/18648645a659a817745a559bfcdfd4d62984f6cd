@@ -1,0 +1,11 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(·®Éÿÿÿÿÿ
+U
+java:S1854"?Remove this useless assignment to local variable "quadruplets".(Œ¨îÀ
+B
+java:S1172"-Remove this unused method parameter "target".(ë´Ç
+F
+java:S1481"0Remove this unused "quadruplets" local variable.(Œ¨îÀ
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï

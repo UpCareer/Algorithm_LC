@@ -1,0 +1,11 @@
+
+8
+java:S16593""Declare "temp" on a separate line.(È‹¦ã
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¸•Ö“úÿÿÿÿ
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(¸•Ö“úÿÿÿÿ8·å›¸¡0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(¸•Ö“úÿÿÿÿ8ªý›¸¡0
+o
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ÔÅÖ
+‚
+java:S1192>"`Define a constant instead of duplicating this literal "Minimum cost to connect ropes: " 3 times.(¸•Ö“úÿÿÿÿ8ªý›¸¡0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ðï“¹øÿÿÿÿ

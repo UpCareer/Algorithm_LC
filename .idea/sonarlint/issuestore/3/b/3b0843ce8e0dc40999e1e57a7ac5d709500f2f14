@@ -1,0 +1,6 @@
+
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(ĞàŒğ
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ĞàŒğ8Ú­¢ÿœ0
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ĞàŒğ8Ú­¢ÿœ0
+o
+java:S1192F"RDefine a constant instead of duplicating this literal "Missing numbers: " 3 times.(ĞàŒğ8Û­¢ÿœ0

@@ -1,0 +1,11 @@
+
+t
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(»Êò«ûÿÿÿÿ8©ÿ¨Ü›0
+v
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(çæœè8³ÿ¨Ü›0
+{
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(­þ´¿þÿÿÿÿ8çó©Ü›0
+{
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(Üðìâûÿÿÿÿ8çó©Ü›0
+b	java:S101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡äÍé
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œèµà

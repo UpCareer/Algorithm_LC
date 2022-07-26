@@ -1,0 +1,18 @@
+
+M	java:S106e"9Replace this use of System.out or System.err by a logger.(ÎŽ•G
+N	java:S106g"9Replace this use of System.out or System.err by a logger.(¸âÉç
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+M	java:S106n"9Replace this use of System.out or System.err by a logger.(ÎŽ•G
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(¸âÉç
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+M	java:S106v"9Replace this use of System.out or System.err by a logger.(ÎŽ•G
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(¸âÉç
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+t
+java:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û°ŽÎýÿÿÿÿ
+t
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔæÈ¿ùÿÿÿÿ
+t
+java:S2293s"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔæÈ¿ùÿÿÿÿ
+‚
+java:S1192e"mDefine a constant instead of duplicating this literal "Intervals after inserting the new interval: " 3 times.(ÎŽ•G

@@ -1,0 +1,9 @@
+
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(¢¨À¨
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(¢¨À¨8—©ÿ“¡0
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¢¨À¨8˜©ÿ“¡0
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ážßü
+v
+java:S11920"YDefine a constant instead of duplicating this literal "Kth smallest number is: " 3 times.(¢¨À¨8˜©ÿ“¡0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ðï“¹øÿÿÿÿ

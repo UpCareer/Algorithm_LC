@@ -1,0 +1,6 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£άªψÿÿÿÿ
+S
+java:S1144"1Remove this unused private "GotoNextItem" method.(£άªψÿÿÿÿ8Τ½„0
+
+java:S1319"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(»σσ

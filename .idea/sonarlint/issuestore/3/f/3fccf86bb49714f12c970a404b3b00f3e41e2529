@@ -1,0 +1,8 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨Î¡¾ÿÿÿÿÿ
+9
+java:S1659!"#Declare "right" on a separate line.(‡¾£Ã
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(»©’÷
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ö—†­şÿÿÿÿ8ÿ«0
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(íøéùÿÿÿÿÿ8ÿ«0

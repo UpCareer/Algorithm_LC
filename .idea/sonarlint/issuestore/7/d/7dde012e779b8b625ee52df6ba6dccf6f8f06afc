@@ -1,0 +1,6 @@
+
+t
+java:S30123"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(›§Òüşÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(¤„ô¿ùÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(“Òª
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğï“¹øÿÿÿÿ

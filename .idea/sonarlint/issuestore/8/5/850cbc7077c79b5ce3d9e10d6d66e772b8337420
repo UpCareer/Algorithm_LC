@@ -1,0 +1,20 @@
+
+7
+java:S1116@"Remove this empty statement.(ôŸŽìúÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(µšÁÿþÿÿÿÿ
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(¸âÉç
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106r"9Replace this use of System.out or System.err by a logger.(µšÁÿþÿÿÿÿ
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(¸âÉç
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(µšÁÿþÿÿÿÿ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(¸âÉç
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+t
+java:S2293e"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û°ŽÎýÿÿÿÿ
+t
+java:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔæÈ¿ùÿÿÿÿ
+t
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÔæÈ¿ùÿÿÿÿ
+n
+java:S1192i"SDefine a constant instead of duplicating this literal "Merged intervals: " 3 times.(µšÁÿþÿÿÿÿ

@@ -1,0 +1,5 @@
+
+t
+java:S3776$"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(“‹¿ªøÿÿÿÿ8×ƒÕÙ›0
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ü™¾’üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œèµà

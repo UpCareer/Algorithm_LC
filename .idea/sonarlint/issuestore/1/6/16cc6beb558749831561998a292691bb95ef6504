@@ -1,0 +1,7 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(“®öÃþÿÿÿÿ
+N
+java:S3878-"8Remove this array creation and simply pass the elements.(ý†Ë¨
+n	java:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(›ç¶Ù
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†ù•Žùÿÿÿÿ
